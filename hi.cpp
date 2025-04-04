@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     cout<<"Hello"<<endl;
-    cout<<"Cứ lỗi đi";
+    cout<<"Thay đổi dòng 6";
 
     
     cout<<"Hoang dep trai nhat the gioi"<<endl;
