@@ -7,5 +7,9 @@ int main() {
 
     
     cout<<"Hoang dep trai nhat the gioi"<<endl;
+    kkkk
+
+    trang
+
     system("pause");
 }
